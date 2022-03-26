@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-selenium
+Tests with selenium & pytest
